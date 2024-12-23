@@ -1,7 +1,7 @@
 
 # Windows Driver pack for Surface Duo 2
 
-![Surface Duo Dual Screen Windows](https://user-images.githubusercontent.com/3755345/197420866-d3bb0534-c848-4cc2-a242-04dae48b0f6e.png)
+![Surface Duo 2 Dual Screen Windows](https://user-images.githubusercontent.com/3755345/197421028-afa8109a-ead9-46c9-985f-d0fac9e342ca.png)
 
 This repository contains driver binary files for Surface Duo 2.
 
