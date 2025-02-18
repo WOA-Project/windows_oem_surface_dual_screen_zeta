@@ -29,7 +29,7 @@
       </FirstLogonCommands>
       <Themes>
         <ThemeName>Surface</ThemeName>
-        <DesktopBackground>%SystemDrive%\Windows\web\wallpaper\oem\Surface\2412.jpg</DesktopBackground>
+        <DesktopBackground>%SystemDrive%\Windows\web\wallpaper\oem\Surface\Surface.jpg</DesktopBackground>
         <SystemUsesLightTheme>false</SystemUsesLightTheme>
         <UWPAppsUseLightTheme>false</UWPAppsUseLightTheme>
       </Themes>
